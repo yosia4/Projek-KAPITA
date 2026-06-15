@@ -6,7 +6,7 @@ Proyek ini bertujuan membandingkan sentimen narasi media mengenai isu **Dolar Rp
 
 ##Clone repository
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/yosia4/Projek-KAPITA.git
 ```
 ## Instalasi
 
