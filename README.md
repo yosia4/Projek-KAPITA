@@ -4,6 +4,10 @@
 
 Proyek ini bertujuan membandingkan sentimen narasi media mengenai isu **Dolar Rp18.000** dengan opini publik pada komentar Instagram menggunakan model **IndoBERT Sentiment Analysis**.
 
+##Clone repository
+```bash
+pip install -r requirements.txt
+```
 ## Instalasi
 
 Install seluruh library:
